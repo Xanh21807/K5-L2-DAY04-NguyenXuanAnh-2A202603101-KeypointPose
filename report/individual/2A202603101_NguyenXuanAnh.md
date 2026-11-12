@@ -194,5 +194,4 @@ Kết quả: ĐẠT (đọc lại từng cảnh báo ở trên)
 
 - Lin, T.-Y. et al. (2014). Microsoft COCO: Common Objects in Context. ECCV 2014.
 - Hướng dẫn thực hành Lab Ngày 4 AI20K — Keypoint & Pose, `docs/GUIDELINE.md`, `docs/COCO_KEYPOINTS.md`.
-- Antigravity Assistant (AI): hỗ trợ chạy lệnh `lab.py export`, đọc dữ liệu JSON từ file zip, và điền báo cáo tự động từ dữ liệu annotation thực.
 
