@@ -6,10 +6,10 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 
 - Họ tên: Nguyễn Xuân Anh
 - MSSV: 2A202603101
-- Email: anhxuannguyen001@gmail.com
+- Email: 26ai.anhnx@vinuni.edu.vn
 - Link repository: https://github.com/Xanh21807/K5-L2-DAY04-NguyenXuanAnh-2A202603101-KeypointPose
 - Phiên bản CVAT (Help → About): 2.74.1
-- Máy: hệ điều hành Windows 11 · RAM 8 GB · chạy CVAT chế độ đầy đủ
+- Máy: hệ điều hành Windows 11 · RAM 16 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
 - Giờ bắt đầu: 16:30
 - Giờ kết thúc: 18:40
