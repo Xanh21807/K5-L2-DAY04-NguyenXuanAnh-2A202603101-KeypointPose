@@ -1,0 +1,43 @@
+{
+ "mssv": "2A2020603101",
+ "ten": "NguyenXuanAnh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "Xanh1807",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000213933.jpg",
+  "000000225138.jpg",
+  "000000308257.jpg",
+  "000000445187.jpg",
+  "000000324953.jpg",
+  "000000467300.jpg",
+  "000000516902.jpg",
+  "000000391222.jpg",
+  "000000461002.jpg",
+  "000000100510.jpg",
+  "000000542160.jpg"
+ ],
+ "faces": [
+  "face_3348.jpg",
+  "face_559185.jpg",
+  "face_575921.jpg",
+  "face_137371.jpg",
+  "face_436791.jpg",
+  "face_556064.jpg",
+  "face_405456.jpg",
+  "face_279764.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 13,
+   "job_id": 12,
+   "task_name": "persons-NguyenXuanAnh"
+  },
+  "faces": {
+   "task_id": 14,
+   "job_id": 13,
+   "task_name": "faces-NguyenXuanAnh"
+  }
+ }
+}
